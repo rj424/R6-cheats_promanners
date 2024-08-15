@@ -1,4 +1,5 @@
 # promanners
+### DISCORD: https://discord.gg/v3eeQxr6kB
 A paid Rainbow Six Siege cheat for free, patch used
 ### IT IS IMPORTANT TO READ THIS MESSAGE BEFORE LAUNCH
 
